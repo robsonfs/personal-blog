@@ -11,12 +11,12 @@ It was designed to serve a very particular purpose: to serve as a support for [m
 ## Run project in development mode
 
 1. ``` virtualenv myblog -p /usr/bin/python3.6```
-* ``` source myblog/bin/activate```
-* ``` git clone git@github.com:robsonfs/personal-blog.git```
-* ``` cd personal-blog```
-* ``` pip install -r requirements.txt```
-* ``` python manage.py runserver```
-* Have fun.
+2. ``` source myblog/bin/activate```
+3. ``` git clone git@github.com:robsonfs/personal-blog.git```
+4. ``` cd personal-blog```
+5. ``` pip install -r requirements.txt```
+6. ``` python manage.py runserver```
+7. Have fun.
 
 ## Run tests
 
